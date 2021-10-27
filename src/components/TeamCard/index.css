@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.list-card-container {
+  /* background-color: #ffffff33; */
+
+  margin-right: 0;
+  /* width: 40%; */
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+}
+.team-logo-size {
+  height: 90px;
+  margin-right: 10px;
+}
+.team-name {
+  color: #fff;
+  font-family: 'Bree Serif';
+  /* border: 1px solid red; */
+  align-self: center;
+  text-align: center;
+}
+.item-link {
+  text-decoration: none;
+  color: none;
+  /* border: 1px solid green; */
+  background-color: #ffffff33;
+  width: 45%;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  border: 2px solid #475569;
+}
